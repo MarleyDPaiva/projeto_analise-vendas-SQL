@@ -162,7 +162,7 @@ O modelo relacional é composto pelas seguintes tabelas:
 
 **Insights de Negócio:**
 * **Comportamento Oscilante:** As vendas não apresentam uma tendência contínua de alta, mas sim ciclos de alta e baixa ao longo do ano (oscilando entre R$ 31 mil e R$ 54 mil).
-* **Sazonalidade de Início e Meio do Ano:** Janeiro e Julho destacam-se como os picos de receita, impulsionados por renovações de início de ano e campanhas de meio de ano.
+* **Sazonalidade de Início e Meio do Ano:** Janeiro e julho se destacam como os principais picos de faturamento do período, indicando um possível padrão sazonal que merece investigação adicional.
 
 **Ações Recomendadas:**
 * **Planejamento de Estoque Sazonal:** Antecipar compras para os meses de pico (Dezembro/Janeiro e Julho) evitando falta de produto.
